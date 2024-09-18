@@ -5,6 +5,7 @@
     "Multinomial",
     "ngrams",
     "punkt",
+    "textblob",
     "Unigram",
     "unigrams",
     "Vectorizer"
