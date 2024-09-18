@@ -2,5 +2,5 @@
 
 - For now learn about the basic `LLMs` (Large Language Models) and how to use them in `python`
 - Access the concepts with code snippets and examples from [here](./language_models/)
-- Learned from [Codedex][https://codedex.io]
+- Learned from [Codedex](https://codedex.io)
 - Repo created by [AVidhanR](https://linkedin.com/in/AVidhanR)
