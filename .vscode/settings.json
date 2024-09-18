@@ -2,9 +2,11 @@
   "cSpell.words": [
     "Bigram",
     "bigrams",
+    "Multinomial",
     "ngrams",
     "punkt",
     "Unigram",
-    "unigrams"
+    "unigrams",
+    "Vectorizer"
   ]
 }
